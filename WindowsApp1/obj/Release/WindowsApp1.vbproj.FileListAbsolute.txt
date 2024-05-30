@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.Form1.resources
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.Form2.resources
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1.exe.config
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.exe
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.xml
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.pdb
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1.exe
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1.pdb
+C:\Users\hp\source\repos\WindowsApp1\WindowsApp1.xml
